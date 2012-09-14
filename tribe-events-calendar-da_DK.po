@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-10 14:14-0800\n"
-"PO-Revision-Date: 2012-08-01 13:21+0100\n"
+"PO-Revision-Date: 2012-09-14 14:08+0100\n"
 "Last-Translator: Morten Brunbjerg Bech <bech@rephlex.dk>\n"
 "Language-Team: Modern Tribe, Inc.\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.3\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../admin-views/app-shop.php:4
@@ -749,7 +750,7 @@ msgstr "Vil du ændre visningen af denne widget? Prøv en %stemplate override%s.
 
 #: ../lib/the-events-calendar.class.php:293
 msgid "category"
-msgstr "kategori"
+msgstr "type"
 
 #: ../lib/the-events-calendar.class.php:294
 msgid "tag"
