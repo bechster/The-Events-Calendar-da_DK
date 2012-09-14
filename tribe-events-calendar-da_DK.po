@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-10 14:14-0800\n"
-"PO-Revision-Date: 2012-09-14 14:08+0100\n"
+"PO-Revision-Date: 2012-09-14 14:12+0100\n"
 "Last-Translator: Morten Brunbjerg Bech <bech@rephlex.dk>\n"
 "Language-Team: Modern Tribe, Inc.\n"
 "MIME-Version: 1.0\n"
@@ -750,7 +750,7 @@ msgstr "Vil du ændre visningen af denne widget? Prøv en %stemplate override%s.
 
 #: ../lib/the-events-calendar.class.php:293
 msgid "category"
-msgstr "type"
+msgstr "kategori"
 
 #: ../lib/the-events-calendar.class.php:294
 msgid "tag"
